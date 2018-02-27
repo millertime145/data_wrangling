@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycache__
+mongodb
+.ipynb_checkpoints
+.spyproject
